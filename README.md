@@ -1,3 +1,11 @@
+## Prototype Booking System ##
+
+## Database Structure
+- Room Types
+- Rooms
+- Customers
+- Booking
+
 ## Installation ##
 
 ```php
